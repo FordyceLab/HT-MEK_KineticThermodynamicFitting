@@ -1,2 +1,2 @@
 # MichaelisMentenFitting
-Higher order kinetic analysis: Michaelis-menten and inhibition fitting
+Higher order kinetic analysis: Michaelis-Menten and inhibition fitting
